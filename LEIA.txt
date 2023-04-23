@@ -1,0 +1,9 @@
+Ola professor, segue os arquivos da atp da materia e algumas orientaçoes!
+
+aqui alguns pontos importantes sobre meu projeto:
+
+1-Fiz meu projeto usando o fornecedo como base assim como recomendado.
+2-O meu projeto é baseado em uma loja de eletronicos onde é possivel cadastrar 3 tipos de aparelhos eletronicos.
+3-Como não sei em qual pasta o professor pretende salvar o arquivo serializavel com os metodos de salvar e recuperar da interface grafica eu mative o local ("c:\\temp\\petStore.dados") no meu codigo.
+4- Assim como no projeto petStore, meu projeto possui 2 arquivos a "LojaEletronicos.java" que é um código normal para rodar no console da IDE e o arquivo "NovaLojaEletronicos.java" que possui a interface gráfica aplicada.
+
